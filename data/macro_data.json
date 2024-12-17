@@ -1,0 +1,41 @@
+{
+	"PE": {
+		"India": 28,
+		"USA": 28,
+		"China": 12,
+		"Japan": 18,
+		"Taiwan": 19
+		
+	},
+	"BuffetIndicator":
+	{
+		"India": 105,
+		"USA": 205,
+		"China": 63,
+		"Japan": 171,
+		"Taiwan": 241
+	},
+	"DebtToGDP":
+	{
+		"India": 82,
+		"USA": 129,
+		"China": 89,
+		"Japan": 264,
+		"Taiwan": 23
+	},
+	"InterestRate":
+	{
+		"India": 6.5,
+		"USA": 4.75,
+		"China": 3.1,
+		"Japan": 0.25,
+		"Taiwan": 2
+	},
+	"Inflation":{
+		"India": 6.21,
+		"USA": 2.4,
+		"China": 0.3,
+		"Japan": 2.5,
+		"Taiwan": 1.69
+	}
+}
